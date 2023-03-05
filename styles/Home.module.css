@@ -5,7 +5,11 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-image: url('/logo.png');
+  background-size: cover;
+  background-position: center center;
 }
+
 
 .description {
   display: inherit;
